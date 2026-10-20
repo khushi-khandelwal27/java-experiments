@@ -29,7 +29,7 @@
                                 <div class="input-group">
                                     <span class="input-group-text bg-light border-end-0"><i class="bi bi-person"></i></span>
                                     <input type="text" class="form-control border-start-0" id="name" name="name" 
-                                           placeholder="e.g. Mehul Sharma" value="${enteredName}" required>
+                                           placeholder="e.g. khushi khandelwal" value="${enteredName}" required>
                                 </div>
                             </div>
 
