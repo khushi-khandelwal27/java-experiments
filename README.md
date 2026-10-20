@@ -12,9 +12,9 @@ A centralized repository containing all **Advanced Java Lab Experiments (Experim
 ---
 
 ## 👤 Author & Submission Information
-* **Student Name:** Mehul Suthar
-* **GitHub Profile:** [@Mehul2215](https://github.com/Mehul2215)
-* **Repository URL:** [https://github.com/Mehul2215/Java-Experiments](https://github.com/Mehul2215/Java-Experiments)
+* **Student Name:** Khushi khandelwal
+* **GitHub Profile:** [khushi-khandelwal27](https://github.com/khushi-khandelwal27/java-experiments)
+* **Repository URL:** [https://github.com/khushi-khandelwal27/java-experiments.git](https://github.com/khushi-khandelwal27/java-experiments.git)
 * **Subject:** Advanced Java Programming Lab & Final Project Submission
 
 ---
