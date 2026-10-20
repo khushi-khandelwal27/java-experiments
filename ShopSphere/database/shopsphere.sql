@@ -162,7 +162,7 @@ INSERT INTO users (user_id, name, email, password, mobile, role, status) VALUES
 (1, 'Admin Officer', 'admin@shopsphere.com', '240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9', '9876543210', 'ADMIN', 'ACTIVE'),
 (2, 'Rahul Sharma', 'rahul@example.com', 'e6c279e8cd401f8d4826b68a8607973d4ee7f311c4708ff812976d29b0153835', '9822334455', 'CUSTOMER', 'ACTIVE'),
 (3, 'John Doe', 'john@example.com', 'e6c279e8cd401f8d4826b68a8607973d4ee7f311c4708ff812976d29b0153835', '9811223344', 'CUSTOMER', 'ACTIVE'),
-(4, 'Mehul Suthar', 'mehulsuthar304@gmail.com', '240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9', '8850449086', 'ADMIN', 'ACTIVE');
+(4, 'khushi khandelwal', 'khandelwalkhushi699@gmail.com', '240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9', '8850449086', 'ADMIN', 'ACTIVE');
 
 INSERT INTO addresses (address_id, user_id, address_line, city, state, pincode, address_type) VALUES
 (1, 2, 'Flat 402, Royal Residency, MI Road', 'Jaipur', 'Rajasthan', '302001', 'HOME'),
